@@ -1,4 +1,2 @@
 # PersonalPortfolio
-parthypatel.com
-Home page of my Personal Portfolio
-
+Home page of my Personal Portfolio, parthypatel.com
