@@ -1,0 +1,61 @@
+body {
+margin: 0;
+background: #e6e6e6;
+}
+
+a{
+	color: black;
+}
+
+header{
+	color: white;
+	padding: 0.7%;
+	margin: 0;
+}
+
+
+header h1{
+	margin: 0;
+	background: #444444;
+	padding: 0.7%;
+}
+
+.body1asdf{
+	margin-right: 1.5%;
+	margin-left: 1.5%;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.aboutme{
+	margin: 4.1% 5% 3% 25%;
+}
+.photo{
+	margin: 3% 0% 0% 2%;
+	float: left;
+	display:block;
+}
+
+.logo{
+	height: 200px;
+	width: 200px;
+	margin: 1.5%;
+}
+.asdf{
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.acadamics{
+	text-align:left;
+	font-family:verdana,sans-serif;
+	font-size:medium;
+	background-color:transparent;
+}
+
+.projects{
+	
+}
+
+@media screen and (max-width: 1150px) {
+	div.photo { display:none; }
+	div.aboutme{ margin: 4.1% 5% 3% 5%; }
+}
